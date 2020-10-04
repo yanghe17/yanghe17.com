@@ -1,4 +1,4 @@
-## Hi!
+## HI WORLD!
 
 You can use the [editor on GitHub](https://github.com/yanghe17/yanghe17.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
